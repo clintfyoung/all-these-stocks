@@ -1,3 +1,10 @@
+#A web application for checking stock prices
+
+This is a simple web application for checking stock prices, using the ticker symbol.
+It is based off of a few files from https://github.com/thedataincubator/flask-demo.git. I launched 
+the app on heroku; you can see it at: all-these-stocks.herokuapp.com .
+I followed the following instructions to help make my first web application:
+
 # Flask on Heroku
 
 This project is intended to help you tie together some important concepts and
